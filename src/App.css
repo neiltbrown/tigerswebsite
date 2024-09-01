@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.content {
+  text-align: left;
+}
+
+.image {
+  width: 100%;
+}
